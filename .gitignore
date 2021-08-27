@@ -1,3 +1,7 @@
 .gdb*
 peda-session*
 *.o
+experiment
+main
+mld
+.vscode
